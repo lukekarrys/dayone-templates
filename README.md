@@ -28,6 +28,7 @@ npm install @lukekarrys/dayone-templates -g
 npm install @lukekarrys/dayone-templates --save
 ```
 
+
 ## Usage
 
 This module is a system for creating DayOne entries that are populated via templates and passing data to those templates.
