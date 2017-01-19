@@ -1,0 +1,16 @@
+---
+title: Run
+tags:
+  - run
+  - workout
+---
+# {{title}}
+
+**Workout**
+{{workout}}
+
+**Result**
+{{result}}
+
+**Notes**
+{{notes}}

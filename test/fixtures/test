@@ -1,0 +1,14 @@
+---
+prop1: test
+prop2:
+ - test1
+ - test2
+title: test2
+---
+# {{title}}
+
+'{{prop1}}'
+
+{{prop2}}
+
+{{prop3}}
