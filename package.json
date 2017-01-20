@@ -1,7 +1,7 @@
 {
   "name": "@lukekarrys/dayone-templates",
   "description": "DayOne CLI with template support.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Luke Karrys <luke@lukekarrys.com>",
   "bin": {
     "dayone-templates": "lib/cli.js"
