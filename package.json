@@ -19,6 +19,7 @@
   },
   "devDependencies": {
     "git-validate": "^2.2.2",
+    "greenkeeper-postpublish": "^1.0.1",
     "outdent": "^0.3.0",
     "standard": "^8.6.0",
     "tap-spec": "^4.1.1",
@@ -45,6 +46,7 @@
   },
   "scripts": {
     "lint": "standard",
+    "postpublish": "greenkeeper-postpublish",
     "test": "tape test/*.js",
     "validate": "npm ls"
   }
