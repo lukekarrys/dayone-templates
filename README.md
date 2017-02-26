@@ -72,7 +72,7 @@ dayone-templates \
 
 Then you'll have an entry that looks like this:
 
-![](./test/fixtures/output.png)
+![](./output.png)
 
 
 ## CLI API
