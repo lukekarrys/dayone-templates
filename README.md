@@ -1,6 +1,8 @@
 dayone-templates
 ======================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/lukekarrys/dayone-templates.svg)](https://greenkeeper.io/)
+
 [DayOne CLI](http://help.dayoneapp.com/command-line-interface-cli/) with template support.
 
 **Note: this only works with DayOne v2.**
