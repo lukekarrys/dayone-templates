@@ -8,6 +8,7 @@ dayone-templates
 [![NPM](https://nodei.co/npm/@lukekarrys/dayone-templates.png)](https://nodei.co/npm/@lukekarrys/dayone-templates/)
 [![Build Status](https://travis-ci.org/lukekarrys/dayone-templates.png?branch=master)](https://travis-ci.org/lukekarrys/dayone-templates)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
+[![Greenkeeper badge](https://badges.greenkeeper.io/lukekarrys/dayone-templates.svg)](https://greenkeeper.io/)
 
 
 ## Install
