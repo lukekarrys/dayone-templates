@@ -13,7 +13,7 @@
     "child-process-promise": "^2.2.0",
     "cli-table": "^0.3.1",
     "fs-promise": "^2.0.0",
-    "gray-matter": "^2.1.1",
+    "gray-matter": "^3.0.0",
     "mustache": "^2.3.0",
     "open": "0.0.5",
     "yargs": "^8.0.1"
