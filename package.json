@@ -10,20 +10,20 @@
     "url": "https://github.com/lukekarrys/dayone-templates/issues"
   },
   "dependencies": {
-    "child-process-promise": "^2.2.0",
+    "child-process-promise": "^2.2.1",
     "cli-table": "^0.3.1",
-    "fs-promise": "^2.0.0",
-    "gray-matter": "^3.0.0",
+    "fs-promise": "^2.0.3",
+    "gray-matter": "^3.0.2",
     "mustache": "^2.3.0",
     "open": "0.0.5",
-    "yargs": "^8.0.1"
+    "yargs": "^8.0.2"
   },
   "devDependencies": {
     "git-validate": "^2.2.2",
     "outdent": "^0.3.0",
-    "standard": "^10.0.2",
+    "standard": "^10.0.3",
     "tap-spec": "^4.1.1",
-    "tape": "^4.6.3"
+    "tape": "^4.8.0"
   },
   "homepage": "https://github.com/lukekarrys/dayone-templates#readme",
   "keywords": [
