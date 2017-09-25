@@ -16,7 +16,7 @@
     "gray-matter": "^3.0.2",
     "mustache": "^2.3.0",
     "open": "0.0.5",
-    "yargs": "^8.0.2"
+    "yargs": "^9.0.1"
   },
   "devDependencies": {
     "git-validate": "^2.2.2",
