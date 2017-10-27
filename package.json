@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "git-validate": "^2.2.2",
-    "outdent": "^0.3.0",
+    "outdent": "^0.4.1",
     "standard": "^10.0.3",
     "tap-spec": "^4.1.1",
     "tape": "^4.8.0"
