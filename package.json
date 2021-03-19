@@ -15,7 +15,7 @@
     "fs-promise": "^2.0.3",
     "gray-matter": "^3.0.2",
     "mustache": "^2.3.0",
-    "open": "0.0.5",
+    "open": "6.0.0",
     "yargs": "^10.0.3"
   },
   "devDependencies": {
